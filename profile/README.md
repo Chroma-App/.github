@@ -1,6 +1,6 @@
 ## Hi there, Welcome to Chroma 👋
 
-View roadmap in [Jira:](https://chroma-ai.atlassian.net/jira/software/projects/SCRUM/list?filter=status+%3D+%27To+Do%27)
+View roadmap in [Jira](https://chroma-ai.atlassian.net/jira/software/projects/SCRUM/list?filter=status+%3D+%27To+Do%27)
 
 <!--
 
