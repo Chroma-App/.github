@@ -1,5 +1,8 @@
 ## Hi there, Welcome to Chroma 👋
 
+View roadmap at:
+(https://chroma-ai.atlassian.net/jira/software/projects/SCRUM/list?filter=status+%3D+%27To+Do%27)
+
 <!--
 
 **Here are some ideas to get you started:**
